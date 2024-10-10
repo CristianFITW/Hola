@@ -20,6 +20,7 @@ function calculateResult(){
         let result = eval(document.getElementById('display').value);
         document.getElementById('display').value = result;
     } catch (error) {
+        alert('Expresión inválida');
         //Si se ingresan terminos que hacen que no se pueda efectuar una operación, te marca un error (como el sintaxis error)
 }
 }
