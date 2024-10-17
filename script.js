@@ -8,7 +8,7 @@ Comentar codigo con diversas lineas
 //18 de septiembre del 2024, soy Cristian Gutiérrez Flores Del 5IV9
 
 //Variables
-/*
+/*s
 Las variables guardan información
 que se puede reutilizar
 */
